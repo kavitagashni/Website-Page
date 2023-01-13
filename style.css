@@ -467,38 +467,9 @@ li a {
     width: 70vw;
     font-size: 23px;
     line-height: 30px;
-    /* animation: 10s kivu infinite;  */
 }
 
-/* @keyframes kivu{
-    0%{
-        left: 0%;
-    }
-    10%{
-        left: 0%;
-    }
-    12%{
-        left:-100%;
-    }
-    22%{
-        left: -100%;
-    }
-    24%{
-        left: -200%;
-    }
-    34%{
-        left: -200%;
-    }
-    36%{
-        left: -300%; */
-/* } */
-/* } */
-/* .ellisis{
-    font-size: 40px;
-    display: flex;
-    justify-content: center;
-    padding-bottom: 50px;
-} */
+
 
 .name {
     font-size: 30px;
@@ -559,8 +530,6 @@ li a {
     margin-left: 11%;
     padding: 5%;
     padding-left: 0px;
-    margin-right: 15%;
-
 }
 
 .big_box {
